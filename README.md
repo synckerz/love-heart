@@ -9,9 +9,9 @@ This project combines mathematical heart geometry, multilingual typography, moti
 
 ## The artwork
 
-![LOVE HEART animation](media/LOVE_HEART.gif)
+![LOVE HEART animation](LOVE_HEART_clean.gif)
 
-If the animation does not display in your GitHub client, you can [watch or download the MP4](media/LOVE_HEART.mp4).
+If the animation does not display in your GitHub client, you can [watch or download the MP4](LOVE_HEART_clean.mp4).
 
 ## The idea behind it
 
